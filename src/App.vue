@@ -49,7 +49,6 @@ html {
 }
 
 .ma-20 {
-  display: inline;
   margin: 20px;
 }
 
